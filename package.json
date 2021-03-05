@@ -1,0 +1,20 @@
+{
+  "name": "onlyfans-dl",
+  "version": "1.0.0",
+  "description": "scrape media from subscribed accounts",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seun-odebunmi/OF-DL.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kun",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
